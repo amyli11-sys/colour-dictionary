@@ -1,6 +1,6 @@
 {
-  "name": "Wada colours",
-  "short_name": "Wada",
+  "name": "Colour dictionary",
+  "short_name": "Colour",
   "description": "Find Sanzo Wada colour combinations by shade.",
   "start_url": "./index.html",
   "scope": "./",
